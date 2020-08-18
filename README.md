@@ -9,5 +9,5 @@ Oink Oink is a turn based dice rolling game to see who can reach to the final po
 1. Player can choose to secure their points by clicking on 'Hold'. this will end their turn, secure the points and end their turn.
 1. Player who reach the final score first Wins.
 
-# So what are you waiting, have a good. 
+# So what are you waiting, Click on the link to play the game. 
 https://oinkgame.netlify.app/
